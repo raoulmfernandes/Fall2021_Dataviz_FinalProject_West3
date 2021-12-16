@@ -10,17 +10,22 @@ The dashboard will be sourcing the data from the following datasets:
 - Public Facilities
 
 The construction of the dashboard will be performed by Team West 3: Claire Harris, Jon Cordero, Raoul Fernandes. The work will be divided as follows:
-Narrative/Write-up: All
-Design:  All
-Development of Mapping and Metrics: 
+
+1. Narrative/Write-up: All
+
+2. Design:  All
+
+3. Development of Mapping and Metrics: 
+
 Tab 1: City Council Districts and Parks Location/Features (Claire Harris)
-Map of city council districts with park locations labeled
-Filter of park features to filter park locations by features
-Table of individual parks and features listed with counts. Only parks with greater than 0 features will be displayed.
+- Map of city council districts with park locations labeled
+- Filter of park features to filter park locations by features
+- Table of individual parks and features listed with counts. Only parks with greater than 0 features will be displayed.
+
 Tab 2: City Council Districts and Public Facilities (Jon Cordero)
-i. Identifying the distribution of public facilities by City Council Districts to identify which districts have the most public services nearby
-ii. Filter of public services to identify best city council districts 
+- Identifying the distribution of public facilities by City Council Districts to identify which districts have the most public services nearby
+- Filter of public services to identify best city council districts 
 
 Tab 3: Parks Location/Features and Public Facilities (Raoul Fernandes)
-i. Parks and public facilities mapped together
-ii. Distances mapped from parks to the public facilities to visually identify the distances and identify which city council districts are planned better than the others
+- Parks and public facilities mapped together
+- Distances mapped from parks to the public facilities to visually identify the distances and identify which city council districts are planned better than the others
